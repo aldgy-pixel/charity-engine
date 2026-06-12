@@ -78,14 +78,6 @@ Weekly check-in expected: charity-dollar-equivalent earned this week, hours spen
 
 "$10K to charity" = $10,000 actually deposited to charities by 2027-10-04, **after taxes**, counted from donation receipts. Not counted: pledges, gross revenue, intentions. Working math: assume ~30% taxes, ~50% of post-tax → charity, so gross revenue target ≈ $28,571 over 16 months. Update math if real tax rate differs.
 
-## Until 2026-06-11 (focus pin — delete Jun 12)
-
-The 14-day fork test is the only active strategic question. Until 2026-06-11:
-- No new bets, project starts, or scope changes.
-- Each session: did fork test signal move? what's next datapoint?
-- Defer strategic re-planning. The data answers it.
-- Client deadlines first (Karavay Jun 13, FreePrints Jun 30).
-
 ## Capacity reality (through 2026-06-30 — delete Jul 1)
 
 Real Charity Engine availability ≈ **1 hr/day**, not 4. Two paying-client deadlines crowd June. Cap weekly Charity Engine actions at **2** until 2026-07-01.
