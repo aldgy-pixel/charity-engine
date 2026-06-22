@@ -4,6 +4,7 @@ Append one line per council run. Most recent at top.
 
 | Date | Decision | Verdict file |
 |---|---|---|
+| 2026-06-22 | July 7 plan cancelled — what does the structural reset actually look like? | council-2026-06-22-charity-engine.md |
 | 2026-06-15 | Three zeros hit — does the July 7 re-frame actually fix the execution gap? | council-2026-06-15-charity-engine.md |
 | 2026-06-12 | fork-test resolution: inconclusive | council-2026-06-12-fork-resolution.md |
 | 2026-06-08 | Fork test closes in 72 hrs — call the verdict and set the post-June-11 plan | council-2026-06-08-charity-engine.md |
